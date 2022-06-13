@@ -1,0 +1,4 @@
+#Mon Jun 13 18:07:35 WEST 2022
+base.0=C\:\\Users\\Lahcen Lamkirich\\Desktop\\ENSET S4\\Android\\Flutter_Projects\\projet_innovation\\e_afferai\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
